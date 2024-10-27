@@ -13,6 +13,7 @@ Perdón el desorden en primer lugar, se ve como mucho código pero la carpeta pa
 #### Carpetas importantes en E2
 1) KMs: contiene los archivos de curvas de Kapplan-Meir.
 2) distribuciones: contiene múltiples gráficos que fueron necesarios para la simulación.
+3) RESULTADOS: resultados de las simulaciones, con los que se sacaron las diferentes tablas.
 
 ##### Otras consideraciones
 - El archivo main está muy desordenado, pero lo que está en estos momentos es un ciclo que genera 50 simulaciones de 1 año con un umbral 0.6, se imprimen las distintas cantidades de falla que fue lo último que se estuvo calculando.
